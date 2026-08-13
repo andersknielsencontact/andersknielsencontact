@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anders 👋
 
-<!--
-**andersknielsencontact/andersknielsencontact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer from Denmark building modern, responsive websites for small businesses.
 
-Here are some ideas to get you started:
+I focus on clean design, clear user experiences, and websites that work well across devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- Git & GitHub
+
+## Featured project
+
+### Salon Heidi
+
+A complete redesign and frontend development of a website for a Danish hair salon.
+
+The project focused on creating a more modern visual identity, improving the user experience, and making important information easier for customers to find.
+
+**Built with:** HTML, CSS & JavaScript
+
+[View my portfolio →](https://andersknielsencontact.github.io/Mine-projekter/upwork/)
+[View Salon Heidi  →] (https://andersknielsencontact.github.io/Mine-projekter/salon-heidi/index.html)
