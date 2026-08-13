@@ -22,5 +22,5 @@ The project focused on creating a more modern visual identity, improving the use
 
 **Built with:** HTML, CSS & JavaScript
 
-[View my portfolio →](https://andersknielsencontact.github.io/Mine-projekter/upwork/)
-[View Salon Heidi  →] (https://andersknielsencontact.github.io/Mine-projekter/salon-heidi/index.html)
+[View my portfolio →](https://andersknielsencontact.github.io/frontend-projects/upwork/)
+[View Salon Heidi  →] (https://andersknielsencontact.github.io/frontend-projects/salon-heidi/index.html)
